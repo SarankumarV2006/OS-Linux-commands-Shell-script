@@ -42,23 +42,28 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
+![Screenshot from 2025-03-08 11-04-37](https://github.com/user-attachments/assets/f46653ea-527c-4576-ab33-1c143b30a95b)
 
 
 
 cat < file2
 ## OUTPUT
+![Screenshot from 2025-03-08 11-06-17](https://github.com/user-attachments/assets/f5b18402-7580-46d6-b35e-07710566660c)
 
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+ ![Screenshot from 2025-03-08 11-08-01](https://github.com/user-attachments/assets/138f89a4-db43-4eef-8899-f52635967e42)
+
 comm file1 file2
  ## OUTPUT
+![Screenshot from 2025-03-08 11-09-09](https://github.com/user-attachments/assets/90da3e70-edd6-48eb-b4cf-c2ad17db83a3)
 
  
 diff file1 file2
 ## OUTPUT
+![Screenshot from 2025-03-08 11-10-27 (Copy)](https://github.com/user-attachments/assets/2cdb69f4-d19b-4b76-97e9-cde88fca01cf)
 
 
 #Filters

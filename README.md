@@ -182,11 +182,13 @@ egrep -w 'Hello|hello' newfile
 
 egrep -w '(H|h)ello' newfile 
 ## OUTPUT
+![Screenshot from 2025-04-12 14-18-54](https://github.com/user-attachments/assets/242a7ff4-8afb-4c67-8113-e4be317183b0)
 
 
 
 egrep -w '(H|h)ell[a-z]' newfile 
 ## OUTPUT
+![Screenshot from 2025-04-12 14-19-22](https://github.com/user-attachments/assets/93af6a85-1819-4036-a8d8-3d015333ca23)
 
 
 
@@ -194,43 +196,57 @@ egrep -w '(H|h)ell[a-z]' newfile
 egrep '(^hello)' newfile 
 ## OUTPUT
 
+![Screenshot from 2025-04-12 14-19-54](https://github.com/user-attachments/assets/6ac55ef3-aced-4258-a282-613cb393041e)
 
 
 egrep '(world$)' newfile 
 ## OUTPUT
 
+![Screenshot from 2025-04-12 14-20-17](https://github.com/user-attachments/assets/6e3ecc4d-4b7e-42fa-a74c-200dbf44b7f3)
 
 
 egrep '(World$)' newfile 
 ## OUTPUT
 
+![Screenshot from 2025-04-12 14-20-40](https://github.com/user-attachments/assets/c99c0d21-c8e4-45b1-a393-86bf38fdcf0d)
 
 egrep '((W|w)orld$)' newfile 
 ## OUTPUT
 
+![Screenshot from 2025-04-12 14-21-03](https://github.com/user-attachments/assets/78ab0e42-d385-4ba9-a34a-bdfd10f6b82e)
 
 
 egrep '[1-9]' newfile 
 ## OUTPUT
 
+![Screenshot from 2025-04-12 14-21-25](https://github.com/user-attachments/assets/ce48f5d8-bff6-41cc-b78a-8b0cdff177d8)
 
 
 egrep 'Linux.*world' newfile 
 ## OUTPUT
 
 
+![Screenshot from 2025-04-12 14-24-19](https://github.com/user-attachments/assets/b12642c7-21ef-4c37-ac60-79ee7fb58662)
+
+
 egrep 'Linux.*World' newfile 
 ## OUTPUT
+
+![Screenshot from 2025-04-12 14-24-39](https://github.com/user-attachments/assets/1178900d-f6b1-4d87-b34e-46269da45872)
 
 
 egrep l{2} newfile
 ## OUTPUT
 
 
+![Screenshot from 2025-04-12 14-26-55](https://github.com/user-attachments/assets/c69df5d6-4851-4bdc-a867-2ed609bbb31a)
+
 
 egrep 's{1,2}' newfile
 ## OUTPUT 
 
+
+![Screenshot from 2025-04-12 14-28-05](https://github.com/user-attachments/assets/8f5aab7b-1c60-4b21-9e06-b77a4564985f)
 
 cat > file23
 ```

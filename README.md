@@ -42,13 +42,14 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![Screenshot from 2025-03-08 11-04-37](https://github.com/user-attachments/assets/f46653ea-527c-4576-ab33-1c143b30a95b)
+
+cat < file2![Screenshot from 2025-03-08 11-04-37](https://github.com/user-attachments/assets/2a74f2f6-4b2a-45cf-a33c-302e4d4774df)
 
 
 
-cat < file2
 ## OUTPUT
-![Screenshot from 2025-03-08 11-06-17](https://github.com/user-attachments/assets/f5b18402-7580-46d6-b35e-07710566660c)
+
+![Screenshot from 2025-04-12 13-52-24](https://github.com/user-attachments/assets/f6b8823c-22a9-4f1d-860f-658cd21aa2a6)
 
 
 # Comparing Files
